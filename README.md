@@ -17,7 +17,7 @@ I'd like to become a software engineer but still being open to other fields of c
 ## aside
 
 ### My reading list:
-- wait...
+- :books: wait...
 
 ## 📫 How to reach me
 <p>
