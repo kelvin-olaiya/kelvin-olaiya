@@ -7,7 +7,7 @@ I'm currently studing for my master degree in
 
 I also study percussion instruments at the [Cesena Conservatory of Music](https://www.conservatoriomaderna.it/).
 
-The beauty of Math & Physics fascinates me. My curiosity has no horizon and it's attracted by ingegnous technologies. 
+The beauty of Math & Physics fascinates me. My curiosity has no horizon and it's attracted by ingenious technologies. 
 At the moment my main interest is exploring DevOps methotologies. 
 
 I'd like to become a software engineer but still being open to other fields of computer science.
