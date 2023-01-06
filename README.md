@@ -17,7 +17,17 @@ I'd like to become a software engineer but still being open to other fields of c
 ## aside
 
 ### :books: Reading list:
--  Just a moment... :wink:
+
+- :it: BLOCKCHAIN, Cyberwar e strumenti di intelligence - Marilù Pagano (ongoing)
+- :us: Algorithms to live by, The Computer Science Of Human decisions - Bryan Christian
+- :it: Il sentiero dei nidi di ragno - Italo Calvino
+
+---
+
+#### :hourglass: Long reading:
+
+- :us: Gödel, Escher, Bach, An eternal Golden Braid - Douglas Hofstadter (ongoing)
+- :it: Il secolo breve, 1914 - 1991 - Eric J. Hobsbawm
 
 ## 📫 How to reach me
 <p>
