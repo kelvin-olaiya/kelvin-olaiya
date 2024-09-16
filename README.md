@@ -19,7 +19,7 @@ I'd like to become a software engineer but still being open to other fields of c
 ### :books: Reading list:
 
 - :it: ~~BLOCKCHAIN, Cyberwar e strumenti di intelligence - Marilù Pagano~~
-- :us: Algorithms to live by, The Computer Science Of Human decisions - Bryan Christian (ongoing)
+- :us: --Algorithms to live by, The Computer Science Of Human decisions - Bryan Christian--
 - :it: Il sentiero dei nidi di ragno - Italo Calvino
 
 ---
