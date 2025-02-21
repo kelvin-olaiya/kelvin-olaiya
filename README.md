@@ -2,7 +2,7 @@
 
 # about:me
 
-I'm currently studing for my master degree in 
+I got my master degree in 
 [*Computer Science and Engineering*](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) @ [UniBo](https://www.unibo.it/en/homepage).
 
 I also study percussion instruments at the [Cesena Conservatory of Music](https://www.conservatoriomaderna.it/).
@@ -13,7 +13,7 @@ At the moment my main interest is exploring DevOps methotologies.
 I'd like to become a software engineer but still being open to other fields of computer science.
 
 ---
-
+<!--
 ## aside
 
 ### :books: Reading list:
@@ -28,7 +28,7 @@ I'd like to become a software engineer but still being open to other fields of c
 
 - :us: Gödel, Escher, Bach, An eternal Golden Braid - Douglas Hofstadter (ongoing)
 - :it: Il secolo breve, 1914 - 1991 - Eric J. Hobsbawm
-
+-->
 ## 📫 How to reach me
 <p>
   <a href="https://github.com/kelvin-olaiya">
